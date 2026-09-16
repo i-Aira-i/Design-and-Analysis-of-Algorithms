@@ -35,6 +35,7 @@ comp = insort(array, inpsize)
 print('After sorting:', array)
 print('no. of comparision', comp)
 
+https://chatgpt.com/uc/6aaa1dd9-5690-83ea-b892-7e602a44a326
 
 '''A version suitable for your practical
 
